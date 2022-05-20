@@ -1,0 +1,79 @@
+2022-05-19 16:05:267 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:937 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:515 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:169 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:615 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:359 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:375 INFO  LoginPage :34 - Enter username : Username to username field [[ChromeDriver: chrome on WINDOWS (c838efd41d6a06a8521e80d3f0f773e2)] -> xpath: //input[@id='user-name']
+]
+2022-05-19 17:05:507 INFO  LoginPage :39 -  Enter password : secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (c838efd41d6a06a8521e80d3f0f773e2)] -> xpath: //input[@id='password']]
+2022-05-19 17:05:645 INFO  LoginPage :44 -  click on female radio button : [[ChromeDriver: chrome on WINDOWS (c838efd41d6a06a8521e80d3f0f773e2)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:124 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:335 INFO  LoginPage :34 - Enter username : Username to username field [[ChromeDriver: chrome on WINDOWS (26a6b29b76773c1752622c72171f26ae)] -> xpath: //input[@id='user-name']
+]
+2022-05-19 17:05:537 INFO  LoginPage :39 -  Enter password : secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (26a6b29b76773c1752622c72171f26ae)] -> xpath: //input[@id='password']]
+2022-05-19 17:05:659 INFO  LoginPage :44 -  click on female radio button : [[ChromeDriver: chrome on WINDOWS (26a6b29b76773c1752622c72171f26ae)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:246 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:898 INFO  LoginPage :34 - Enter username : Username to username field [[ChromeDriver: chrome on WINDOWS (1f22206d2f854a429893603f548a2e47)] -> xpath: //input[@id='user-name']
+]
+2022-05-19 17:05:93 INFO  LoginPage :39 -  Enter password : secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (1f22206d2f854a429893603f548a2e47)] -> xpath: //input[@id='password']]
+2022-05-19 17:05:308 INFO  LoginPage :44 -  click on female radio button : [[ChromeDriver: chrome on WINDOWS (1f22206d2f854a429893603f548a2e47)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:497 INFO  ProductsPage :35 -  selecting product heigh to low  : Price (high to low) frome drop down [[ChromeDriver: chrome on WINDOWS (1f22206d2f854a429893603f548a2e47)] -> xpath: //select[@class='product_sort_container']]
+2022-05-19 17:05:601 INFO  ProductsPage :39 -  click cheapest product : [[ChromeDriver: chrome on WINDOWS (1f22206d2f854a429893603f548a2e47)] -> id: add-to-cart-sauce-labs-onesie]
+2022-05-19 17:05:713 INFO  ProductsPage :43 -  click costliest product : [[ChromeDriver: chrome on WINDOWS (1f22206d2f854a429893603f548a2e47)] -> id: add-to-cart-sauce-labs-fleece-jacket]
+2022-05-19 17:05:994 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:263 INFO  LoginPage :34 - Enter username : Username to username field [[ChromeDriver: chrome on WINDOWS (7faccec9a40354dfdfb539db929ec50b)] -> xpath: //input[@id='user-name']
+]
+2022-05-19 17:05:577 INFO  LoginPage :39 -  Enter password : secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (7faccec9a40354dfdfb539db929ec50b)] -> xpath: //input[@id='password']]
+2022-05-19 17:05:845 INFO  LoginPage :44 -  click on female radio button : [[ChromeDriver: chrome on WINDOWS (7faccec9a40354dfdfb539db929ec50b)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:32 INFO  ProductsPage :35 -  selecting product heigh to low  : Price (high to low) frome drop down [[ChromeDriver: chrome on WINDOWS (7faccec9a40354dfdfb539db929ec50b)] -> xpath: //select[@class='product_sort_container']]
+2022-05-19 17:05:168 INFO  ProductsPage :39 -  click cheapest product : [[ChromeDriver: chrome on WINDOWS (7faccec9a40354dfdfb539db929ec50b)] -> xpath: //div[text()='Sauce Labs Onesie']]
+2022-05-19 17:05:524 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:439 INFO  LoginPage :34 - Enter username : Username to username field [[ChromeDriver: chrome on WINDOWS (c4126972e5d9279f6ce5c4d750da9007)] -> xpath: //input[@id='user-name']
+]
+2022-05-19 17:05:728 INFO  LoginPage :39 -  Enter password : secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (c4126972e5d9279f6ce5c4d750da9007)] -> xpath: //input[@id='password']]
+2022-05-19 17:05:126 INFO  LoginPage :44 -  click on female radio button : [[ChromeDriver: chrome on WINDOWS (c4126972e5d9279f6ce5c4d750da9007)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:367 INFO  ProductsPage :35 -  selecting product heigh to low  : Price (high to low) frome drop down [[ChromeDriver: chrome on WINDOWS (c4126972e5d9279f6ce5c4d750da9007)] -> xpath: //select[@class='product_sort_container']]
+2022-05-19 17:05:468 INFO  ProductsPage :39 -  click cheapest product : [[ChromeDriver: chrome on WINDOWS (c4126972e5d9279f6ce5c4d750da9007)] -> xpath: //div[text()='Sauce Labs Onesie']]
+2022-05-19 17:05:487 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:172 INFO  LoginPage :34 - Enter username : Username to username field [[ChromeDriver: chrome on WINDOWS (ea7d8a05325792c09fbc251b62abe01d)] -> xpath: //input[@id='user-name']
+]
+2022-05-19 17:05:308 INFO  LoginPage :39 -  Enter password : secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (ea7d8a05325792c09fbc251b62abe01d)] -> xpath: //input[@id='password']]
+2022-05-19 17:05:504 INFO  LoginPage :44 -  click on female radio button : [[ChromeDriver: chrome on WINDOWS (ea7d8a05325792c09fbc251b62abe01d)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:684 INFO  ProductsPage :42 -  selecting product heigh to low  : Price (high to low) frome drop down [[ChromeDriver: chrome on WINDOWS (ea7d8a05325792c09fbc251b62abe01d)] -> xpath: //select[@class='product_sort_container']]
+2022-05-19 17:05:774 INFO  ProductsPage :46 -  click cheapest product : [[ChromeDriver: chrome on WINDOWS (ea7d8a05325792c09fbc251b62abe01d)] -> xpath: //div[text()='Sauce Labs Onesie']]
+2022-05-19 17:05:373 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:664 INFO  LoginPage :34 - Enter username : Username to username field [[ChromeDriver: chrome on WINDOWS (646172c940854b07e741bf1f67131cf7)] -> xpath: //input[@id='user-name']
+]
+2022-05-19 17:05:75 INFO  LoginPage :39 -  Enter password : secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (646172c940854b07e741bf1f67131cf7)] -> xpath: //input[@id='password']]
+2022-05-19 17:05:359 INFO  LoginPage :44 -  click on female radio button : [[ChromeDriver: chrome on WINDOWS (646172c940854b07e741bf1f67131cf7)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:545 INFO  ProductsPage :51 -  selecting product heigh to low  : Price (high to low) frome drop down [[ChromeDriver: chrome on WINDOWS (646172c940854b07e741bf1f67131cf7)] -> xpath: //select[@class='product_sort_container']]
+2022-05-19 17:05:657 INFO  ProductsPage :55 -  click cheapest product : [[ChromeDriver: chrome on WINDOWS (646172c940854b07e741bf1f67131cf7)] -> xpath: //div[text()='Sauce Labs Onesie']]
+2022-05-19 17:05:620 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 17:05:453 INFO  LoginPage :34 - Enter username : Username to username field [[ChromeDriver: chrome on WINDOWS (35a074ad121f1da69e759f3000e265b1)] -> xpath: //input[@id='user-name']
+]
+2022-05-19 17:05:825 INFO  LoginPage :39 -  Enter password : secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (35a074ad121f1da69e759f3000e265b1)] -> xpath: //input[@id='password']]
+2022-05-19 17:05:132 INFO  LoginPage :44 -  click on female radio button : [[ChromeDriver: chrome on WINDOWS (35a074ad121f1da69e759f3000e265b1)] -> xpath: //input[@id='login-button']]
+2022-05-19 17:05:333 INFO  ProductsPage :51 -  selecting product heigh to low  : Price (high to low) frome drop down [[ChromeDriver: chrome on WINDOWS (35a074ad121f1da69e759f3000e265b1)] -> xpath: //select[@class='product_sort_container']]
+2022-05-19 17:05:483 INFO  ProductsPage :55 -  click cheapest product : [[ChromeDriver: chrome on WINDOWS (35a074ad121f1da69e759f3000e265b1)] -> xpath: //div[text()='Sauce Labs Onesie']]
+2022-05-20 16:05:554 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 16:05:694 INFO  LoginPage :34 - Enter username : Username to username field [[ChromeDriver: chrome on WINDOWS (10cecc7e0fd263369915d896a2caaab2)] -> xpath: //input[@id='user-name']
+]
+2022-05-20 16:05:827 INFO  LoginPage :39 -  Enter password : secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (10cecc7e0fd263369915d896a2caaab2)] -> xpath: //input[@id='password']]
+2022-05-20 16:05:06 INFO  LoginPage :44 -  click on female radio button : [[ChromeDriver: chrome on WINDOWS (10cecc7e0fd263369915d896a2caaab2)] -> xpath: //input[@id='login-button']]
+2022-05-20 16:05:671 INFO  ShoppingCartPage :25 - click on checkOutButton :[[ChromeDriver: chrome on WINDOWS (10cecc7e0fd263369915d896a2caaab2)] -> xpath: //button[contains(text(),'Checkout')]]
+2022-05-20 16:05:782 INFO  CheckOutYourInformationPage :33 - Entring first name : [[ChromeDriver: chrome on WINDOWS (10cecc7e0fd263369915d896a2caaab2)] -> xpath: //input[@id='first-name']]
+2022-05-20 16:05:879 INFO  CheckOutYourInformationPage :37 - Enter last name :[[ChromeDriver: chrome on WINDOWS (10cecc7e0fd263369915d896a2caaab2)] -> xpath: //input[@id='last-name']]
+2022-05-20 16:05:994 INFO  CheckOutYourInformationPage :41 - Entring zip code : [[ChromeDriver: chrome on WINDOWS (10cecc7e0fd263369915d896a2caaab2)] -> xpath: //input[@id='postal-code']]
+2022-05-20 16:05:85 INFO  CheckOutYourInformationPage :45 - click on Continue :[[ChromeDriver: chrome on WINDOWS (10cecc7e0fd263369915d896a2caaab2)] -> xpath: //input[@id='continue']]
+2022-05-20 16:05:184 INFO  CheckOutComplatePage :24 - Getting thank you text :[[ChromeDriver: chrome on WINDOWS (10cecc7e0fd263369915d896a2caaab2)] -> xpath: //h2[@class='complete-header']]
+2022-05-20 16:05:953 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-20 16:05:974 INFO  LoginPage :34 - Enter username : Username to username field [[ChromeDriver: chrome on WINDOWS (df81fb7fb63e07716f9f04cdc08cab44)] -> xpath: //input[@id='user-name']
+]
+2022-05-20 16:05:88 INFO  LoginPage :39 -  Enter password : secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (df81fb7fb63e07716f9f04cdc08cab44)] -> xpath: //input[@id='password']]
+2022-05-20 16:05:260 INFO  LoginPage :44 -  click on female radio button : [[ChromeDriver: chrome on WINDOWS (df81fb7fb63e07716f9f04cdc08cab44)] -> xpath: //input[@id='login-button']]
+2022-05-20 16:05:715 INFO  ShoppingCartPage :25 - click on checkOutButton :[[ChromeDriver: chrome on WINDOWS (df81fb7fb63e07716f9f04cdc08cab44)] -> xpath: //button[contains(text(),'Checkout')]]
+2022-05-20 16:05:836 INFO  CheckOutYourInformationPage :33 - Entring first name : [[ChromeDriver: chrome on WINDOWS (df81fb7fb63e07716f9f04cdc08cab44)] -> xpath: //input[@id='first-name']]
+2022-05-20 16:05:927 INFO  CheckOutYourInformationPage :37 - Enter last name :[[ChromeDriver: chrome on WINDOWS (df81fb7fb63e07716f9f04cdc08cab44)] -> xpath: //input[@id='last-name']]
+2022-05-20 16:05:37 INFO  CheckOutYourInformationPage :41 - Entring zip code : [[ChromeDriver: chrome on WINDOWS (df81fb7fb63e07716f9f04cdc08cab44)] -> xpath: //input[@id='postal-code']]
+2022-05-20 16:05:119 INFO  CheckOutYourInformationPage :45 - click on Continue :[[ChromeDriver: chrome on WINDOWS (df81fb7fb63e07716f9f04cdc08cab44)] -> xpath: //input[@id='continue']]
